@@ -54,7 +54,7 @@ const Footer: React.FC = () => {
         </div>
         
         <div className="mt-24">
-          <h1 className="text-[14vw] font-black leading-none tracking-tighter text-center opacity-20 select-none text-transparent stroke-white" style={{WebkitTextStroke: '1px rgba(255,255,255,0.3)'}}>
+          <h1 className="text-[14vw] font-black leading-none tracking-tighter text-center opacity-100 select-none text-transparent stroke-white" style={{WebkitTextStroke: '1px rgba(255,255,255,0.3)'}}>
             VANTAGE
           </h1>
         </div>
